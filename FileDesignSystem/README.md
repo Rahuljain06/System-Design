@@ -1,2 +1,2 @@
 # System-Design
-This Repo contains different design patterns.
+This is a File Design System using Composite Pattern
